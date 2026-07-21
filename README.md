@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-
+Vercel page: https://wdd430-student-study-hub.vercel.app/
 First, run the development server:
 
 ```bash
