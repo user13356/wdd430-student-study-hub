@@ -3,11 +3,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 Project Team members:
 
-[ Cas Perche ](Cas Perche)
-[ Benedicta Etim ](Benedicta Etim)
-[ Artur Calderon ](Artur Calderon)
-[ Corbin Van Scheltema ](Corbin Van Scheltema)
-[ Obicheozo Lily Nkeiruka ](Obicheozo Lily Nkeiruka)
+- Cas Perche (Project Coordinator)
+
+- Benedicta Etim (Project Facilitator)
+
+- Artur Calderon (Project Manager)
+
+- Corbin Van Scheltema (Project Developer)
+
+- Obicheozo Lily Nkeiruka (Project Code Reviewer)
 
 
 First, run the development server:
