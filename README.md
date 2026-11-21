@@ -14,7 +14,9 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see local result.
+
+Open [https://wdd430-student-study-hub.vercel.app](https://wdd430-student-study-hub.vercel.app) with your browser to see online result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
