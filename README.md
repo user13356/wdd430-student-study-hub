@@ -15,7 +15,7 @@ Project Team members:
 
 ## Student Study Hub
 
-$Description
+Description:
 
 Student Study Hub is a full-stack web application designed for students to securely create, organize, and manage their personal study notes. Users can register for an account, log in, and create private notes containing a “Note Number, Title, Content, and Category”. Each note can be edited or deleted at any time, and only the logged-in user can access their own notes. From Week 4 due by until date - The application also includes a movie search feature using a Movies API, allowing users to search for movies and view detailed information from their dashboard.
 
